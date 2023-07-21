@@ -61,6 +61,7 @@ Sprint board screenshotları:
 • Ürün Durumu: 
 
 Ekran görüntüleri: 
+![puzzlebird](https://github.com/zhrbyrm/Bootcampzehrabayram/assets/130188218/85eda33e-78cf-417a-83d2-3a3564e6ecc2)
 
 <img src="https://drive.google.com/file/d/1gouQuY5cSM0gf4lhR80i-3WtR7SmaQvq/view?usp=drivesdk" alt ="ekran goruntuleri" width="10" height="10">
 
